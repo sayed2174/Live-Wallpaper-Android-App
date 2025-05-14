@@ -1,7 +1,7 @@
 # 🌄 Wallpapers Live – Dynamic Wallpaper Slideshow
 
 Welcome to **Wallpapers Live**, a beautiful and lightweight Android live wallpaper app that brings your home screen to life! With **216 stunning wallpapers**, this app automatically updates your wallpaper based on your chosen time interval, offering a fresh and dynamic experience every time you unlock your device or after a set duration.
-
+These Project is an Purely an interest towards my android experience and voice of my brain ""Why Not"" to make an your own app.
 ---
 
 ## ✨ Features
